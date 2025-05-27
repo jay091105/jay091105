@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Jay, a passionate developer who loves building innovative solutions and solving complex problems.
+Hi! I'm **Jay Ariwala**, a passionate full-stack developer who enjoys building scalable web applications, solving real-world problems, and constantly learning new technologies. I thrive in collaborative environments and love working on innovative projects that have a meaningful impact.
 
 
 ## 🌐 Socials:
